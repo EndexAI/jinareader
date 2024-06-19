@@ -46,7 +46,7 @@
     "langdetect": "^0.2.1",
     "minio": "^7.1.3",
     "openai": "^4.20.0",
-    "puppeteer": "^22.6.3",
+    "puppeteer": "^22.11.2",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "stripe": "^11.11.0",
